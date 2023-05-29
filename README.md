@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Dot Net Core Web API**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Js**
 
 - 👯 I’m looking to collaborate on **Dot Net Projects**
 
