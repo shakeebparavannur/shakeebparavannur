@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **Dot Net Projects**
+- 👯 I’m looking to collaborate on **Dot Net Core Projects**
 
 - 📫 How to reach me **shakeebparavannur@gmail.com**
 
