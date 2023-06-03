@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED SHAKEEB KP</h1>
 <h3 align="center">Self-taught .NET Full Stack Developer with a strong foundation in React,</h3>
 
-- 🔭 I’m currently working on **.Net Core Web API**
+- 🔭 I’m currently working on **ASP .Net Core Web API**
 
 - 🌱 I’m currently learning **React Js**
 
