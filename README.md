@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMMED SHAKEEB KP</h1>
-<h3 align="center">A passionate Dot Net Core Full Stack developer from India</h3>
+<h3 align="center">A passionate Self taught Dot Net Core Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakeebparavannur&label=Profile%20views&color=0e75b6&style=flat" alt="shakeebparavannur" /> </p>
 
